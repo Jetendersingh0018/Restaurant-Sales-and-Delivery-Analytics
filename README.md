@@ -138,23 +138,31 @@ This page provides detailed analysis for an individual restaurant.
 
 ## 🖼️ Dashboard Preview
 
-### Sales & Orders Overview
+### 📊 Sales & Orders Overview
 
 ![Sales & Orders Overview](screenshots/01_sales_orders_overview.png)
 
-### Customer Analysis
+---
+
+### 👥 Customer Analysis
 
 ![Customer Analysis](screenshots/02_customer_analysis.png)
 
-### Restaurant & Cuisine Analysis
+---
+
+### 🍽️ Restaurant & Cuisine Analysis
 
 ![Restaurant & Cuisine Analysis](screenshots/03_restaurant_cuisine_analysis.png)
 
-### Delivery Performance
+---
+
+### 🚚 Delivery Performance
 
 ![Delivery Performance](screenshots/04_delivery_performance.png)
 
-### Restaurant Detail
+---
+
+### 🏪 Restaurant Detail
 
 ![Restaurant Detail](screenshots/05_restaurant_detail.png)
 
